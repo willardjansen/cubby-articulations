@@ -95,6 +95,12 @@ Copy .keyswitch files to:
 
 ---
 
+## Roadmap
+
+See [ROADMAP.md](ROADMAP.md) for planned features and development status.
+
+---
+
 ## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
