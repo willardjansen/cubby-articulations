@@ -86,10 +86,9 @@ Maps shared on [Steinberg Forums](https://forums.steinberg.net):
 
 ## Individual Contributors
 
-*This section will grow as contributions come in.*
-
 | Contributor | Contributions | License |
 |-------------|---------------|---------|
+| Willard Jansen | Miroslav Philharmonik 2 (30 Cubase expression maps) | MIT |
 | *Your name here* | *Submit a PR to be listed!* | |
 
 ---

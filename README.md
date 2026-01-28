@@ -37,15 +37,15 @@ Cubby Articulations is a community-driven, searchable database of expression map
 
 ### Supported DAWs
 
-| DAW | Format | Status |
-|-----|--------|--------|
-| Cubase / Nuendo | `.expressionmap` | Active |
-| Logic Pro | `.plist` (Articulation Sets) | Active |
-| Studio One | `.keyswitch` | Active |
-| Dorico | `.doricolib` | Planned |
-| Reaper | `.reabank` (Reaticulate) | Planned |
-| Digital Performer | `.artmap` | Planned |
-| Cakewalk | `.artmap` | Planned |
+| DAW | Name | Format | Status |
+|-----|------|--------|--------|
+| Cubase / Nuendo | Expression Maps | `.expressionmap` | Active |
+| Dorico | Expression Maps | `.doricolib` | Planned |
+| Logic Pro | Articulation Sets | `.plist` | Active |
+| Studio One | Sound Variations | `.keyswitch` | Planned |
+| Reaper | Reabanks (Reaticulate) | `.reabank` | Planned |
+| Digital Performer | Articulation Maps | `.artmap` | Planned |
+| Cakewalk | Articulation Maps | `.artmap` | Planned |
 
 ### Supported Libraries
 

@@ -1,0 +1,45 @@
+# Abbey Road One - Logic Pro Articulation Sets
+
+name: "Abbey Road One: Orchestral Foundations"
+developer: "Spitfire Audio"
+version: "1.0.0"
+category: "orchestral"
+website: "https://www.spitfireaudio.com/abbey-road-one"
+
+attribution:
+  original_author: "Simon Lehmann"
+  original_source: "https://github.com/simonlehmann/logic-pro-articulation-sets-for-abbey-road-one"
+  original_license: "MIT"
+  imported_by: "Cubby Articulations"
+  import_date: "2025-01-28"
+
+exports:
+  - logic
+
+updated: "2025-01-28"
+
+tags:
+  - strings
+  - brass
+  - woodwinds
+  - percussion
+  - full-orchestra
+
+instruments:
+  orchestra:
+    - Full Orchestra
+    - Strings
+    - Brass
+    - Woodwinds
+  percussion:
+    - Percussion
+    - Percussion Ensembles
+    - Tuned Percussion
+    - Drums
+    - Metal
+  selections:
+    - Legendary Low Strings
+
+notes: |
+  Logic Pro Articulation Sets for Abbey Road One: Orchestral Foundations.
+  Created by Simon Lehmann and released under MIT license.

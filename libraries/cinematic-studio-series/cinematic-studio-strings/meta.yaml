@@ -1,0 +1,28 @@
+# Cinematic Studio Strings - Cubase Expression Maps
+
+name: "Cinematic Studio Strings"
+developer: "Cinematic Studio Series"
+version: "1.0.0"
+category: "strings"
+website: "https://cinematicstudioseries.com/strings/"
+
+attribution:
+  original_author: "alvsvartr"
+  original_source: "https://github.com/alvsvartr/Cubase-Expression-Maps"
+  original_license: "Open source"
+  imported_by: "Cubby Articulations"
+  import_date: "2025-01-28"
+
+exports:
+  - cubase
+
+updated: "2025-01-28"
+
+tags:
+  - strings
+  - cinematic
+  - film-scoring
+
+notes: |
+  Cubase Expression Maps for Cinematic Studio Strings.
+  From alvsvartr's open-source expression map collection.

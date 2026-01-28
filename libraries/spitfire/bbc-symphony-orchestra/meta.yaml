@@ -1,0 +1,64 @@
+# BBC Symphony Orchestra - Logic Pro Articulation Sets
+
+name: "BBC Symphony Orchestra"
+developer: "Spitfire Audio"
+version: "1.0.0"
+category: "orchestral"
+website: "https://www.spitfireaudio.com/bbc-symphony-orchestra"
+
+attribution:
+  original_author: "Simon Lehmann"
+  original_source: "https://github.com/simonlehmann/logic-pro-articulation-sets-for-bbc-symphony-orchestra"
+  original_license: "MIT"
+  imported_by: "Cubby Articulations"
+  import_date: "2025-01-28"
+
+exports:
+  - logic
+
+updated: "2025-01-28"
+
+tags:
+  - strings
+  - brass
+  - woodwinds
+  - percussion
+  - harp
+  - full-orchestra
+
+instruments:
+  strings:
+    - Violins 1
+    - Violins 2
+    - Violas
+    - Cellos
+    - Basses
+    - Leader (Solo Violin)
+  brass:
+    - Horns (Solo & a4)
+    - Trumpets (Solo & a3)
+    - Tenor Trombones (Solo & a3)
+    - Bass Trombone
+    - Tuba
+    - Contrabass Tuba
+    - Cimbasso
+  woodwinds:
+    - Flutes (Solo & a3)
+    - Piccolo
+    - Bass Flute
+    - Oboes (Solo & a3)
+    - Cor Anglais
+    - Clarinets (Solo & a3)
+    - Bass Clarinet
+    - Contrabass Clarinet
+    - Bassoons (Solo & a3)
+    - Contrabassoon
+  percussion:
+    - Timpani
+    - Percussion ensembles
+  harp:
+    - Harp
+
+notes: |
+  Complete Logic Pro Articulation Sets for BBC Symphony Orchestra.
+  Created by Simon Lehmann and released under MIT license.

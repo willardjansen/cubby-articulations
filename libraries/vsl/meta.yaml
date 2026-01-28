@@ -1,0 +1,30 @@
+# Vienna Symphonic Library - Expression Maps
+# Attribution for all VSL libraries in this folder
+
+developer: "Vienna Symphonic Library"
+website: "https://www.vsl.co.at"
+
+attribution:
+  original_author: "Jared Thirsk"
+  original_source: "https://github.com/jaredthirsk/cubase-expression-maps"
+  original_license: "Unlicense (Public Domain)"
+  imported_by: "Cubby Articulations"
+  import_date: "2025-01-28"
+
+notes: |
+  These expression maps were created by Jared Thirsk and released into the
+  public domain under the Unlicense. They cover extensive articulations for
+  VSL's Synchron and Synchronized series.
+
+  Libraries included:
+  - Synchron Brass
+  - Synchron Strings Pro
+  - Synchron Elite Strings
+  - Synchron Drums
+  - Synchronized Appassionata Strings
+  - Synchronized Dimension Strings
+  - Synchronized Solo Strings
+  - Synchronized Woodwinds
+  - Synchronized Special Edition
+  - Big Bang Orchestra
+  - VI Special Edition
