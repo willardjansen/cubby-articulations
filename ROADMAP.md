@@ -14,7 +14,7 @@
 | Import simonlehmann BBC SO & Abbey Road One (MIT) | Done |
 | Import alvsvartr CSS and other maps | Done |
 | Add Miroslav Philharmonik 2 (original) | Done |
-| Announce on VI-Control | Planned |
+| Announce on VI-Control | Done |
 | Announce on Steinberg Forums | Planned |
 | Announce on Reddit (r/composer, r/cubase) | Planned |
 | Reach out to library developers for official free maps | Planned |
