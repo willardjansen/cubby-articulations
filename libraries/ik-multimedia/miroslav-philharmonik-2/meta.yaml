@@ -1,0 +1,73 @@
+# Miroslav Philharmonik 2 - Expression Maps for Cubase
+
+name: "Miroslav Philharmonik 2"
+developer: "IK Multimedia"
+version: "1.0.0"
+library_version: "2.x"
+category: "orchestral"
+website: "https://www.ikmultimedia.com/products/philharmonik2/"
+
+# Attribution
+attribution:
+  author: "Willard Jansen"
+  source: "Original creation"
+  license: "MIT"
+  confirmation: "I created these expression maps myself from scratch for my own projects"
+
+# Available exports
+exports:
+  - cubase
+
+# Metadata
+updated: "2024-01-13"
+created: "2024-01-11"
+
+tags:
+  - strings
+  - brass
+  - woodwinds
+  - full-orchestra
+  - solo-instruments
+
+# Instruments included
+instruments:
+  strings:
+    - "Violins 1"
+    - "Violins 1 + Solo"
+    - "Solo Violin"
+    - "Violas"
+    - "Violas + Solo"
+    - "Solo Viola"
+    - "Cellos"
+    - "Cellos + Solo"
+    - "Solo Cello"
+    - "Double Basses"
+    - "Double Basses + Solo"
+    - "Solo Double Bass"
+
+  brass:
+    - "4 Horns"
+    - "Solo Horn"
+    - "3 Trumpets"
+    - "1st Trumpet"
+    - "2nd Trumpet"
+    - "3 Trombones"
+    - "Solo Trombone"
+    - "Bass Trombone"
+    - "Trombone & Tuba"
+    - "Tuba"
+
+  woodwinds:
+    - "Flute"
+    - "Piccolo"
+    - "Oboe"
+    - "English Horn"
+    - "Clarinet"
+    - "Bass Clarinet"
+    - "Bassoon"
+    - "Contrabassoon"
+
+notes: |
+  Complete expression map set for Miroslav Philharmonik 2 orchestral library.
+  Created for Cubase Pro. Covers all main orchestral sections with both
+  section and solo instruments where available.

@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cubbycomposer.com/schemas/meta.schema.json",
+  "title": "Cubby Articulations Library Metadata",
+  "description": "Schema for library metadata files",
+  "type": "object",
+  "required": ["name", "developer", "attribution"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Full name of the sample library"
+    },
+    "developer": {
+      "type": "string",
+      "description": "Name of the library developer/company"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Semantic version of the expression maps"
+    },
+    "library_version": {
+      "type": "string",
+      "description": "Version of the sample library these maps are for"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["orchestral", "strings", "brass", "woodwinds", "percussion", "choir", "piano", "guitar", "synth", "ethnic", "hybrid", "other"],
+      "description": "Primary category of the library"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the library's product page"
+    },
+    "attribution": {
+      "type": "object",
+      "required": ["author", "license", "confirmation"],
+      "properties": {
+        "author": {
+          "type": "string",
+          "description": "Creator of these expression maps"
+        },
+        "source": {
+          "type": "string",
+          "description": "URL or 'Original creation'"
+        },
+        "license": {
+          "type": "string",
+          "enum": ["MIT", "GPL-3.0", "GPL-2.0", "Unlicense", "Apache-2.0", "CC0", "CC-BY-4.0", "CC-BY-SA-4.0"],
+          "description": "Open source license"
+        },
+        "confirmation": {
+          "type": "string",
+          "description": "Confirmation that this is not proprietary content"
+        },
+        "original_author": {
+          "type": "string",
+          "description": "Original author if this is a derivative work"
+        },
+        "original_source": {
+          "type": "string",
+          "description": "URL to original source"
+        },
+        "original_license": {
+          "type": "string",
+          "description": "License of original work"
+        },
+        "modifications": {
+          "type": "string",
+          "description": "Description of modifications made"
+        },
+        "modified_by": {
+          "type": "string",
+          "description": "Person who made modifications"
+        }
+      }
+    },
+    "exports": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["cubase", "logic", "studio-one", "dorico", "reaper", "digital-performer", "cakewalk"]
+      },
+      "description": "DAW formats available"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Last update date (YYYY-MM-DD)"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Search tags"
+    }
+  }
+}

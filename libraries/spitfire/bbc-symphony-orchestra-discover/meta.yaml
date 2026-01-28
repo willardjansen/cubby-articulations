@@ -1,0 +1,40 @@
+# Library Metadata
+# This is an EXAMPLE - replace with actual data when contributing
+
+name: "BBC Symphony Orchestra Discover"
+developer: "Spitfire Audio"
+version: "1.0.0"
+library_version: "1.2"
+category: "orchestral"
+website: "https://www.spitfireaudio.com/bbc-symphony-orchestra"
+
+# REQUIRED: Attribution and license confirmation
+attribution:
+  author: "Babylonwaves"
+  source: "https://www.babylonwaves.com/free/"
+  license: "CC-BY-4.0"
+  confirmation: "Official free release from Babylonwaves for the Discover edition"
+
+# Available exports
+exports:
+  - cubase
+  - logic
+  # - studio-one  # Coming soon
+
+# Metadata
+updated: "2025-01-28"
+
+tags:
+  - strings
+  - brass
+  - woodwinds
+  - percussion
+  - full-orchestra
+  - free-library
+
+# Notes
+notes: |
+  This is an example entry. The BBC Symphony Orchestra Discover edition
+  has official free expression maps from Babylonwaves.
+
+  Download the actual maps from: https://www.babylonwaves.com/free/

@@ -1,0 +1,71 @@
+# Example Expression Map Source File
+# This shows the format - actual articulations may vary
+
+instrument: "Violins 1"
+patch: "BBCSO Discover - Violins 1"
+channel: 1
+
+# BBC SO uses UACC (Universal Articulation Controller Channel)
+keyswitch_type: "uacc"
+cc_number: 32  # UACC typically uses CC32
+
+articulations:
+  # Longs
+  - name: "Long"
+    short: "long"
+    keyswitch: 1
+    color: "#4CAF50"
+    group: "length"
+
+  - name: "Legato"
+    short: "leg"
+    keyswitch: 20
+    color: "#2196F3"
+    group: "length"
+
+  # Shorts
+  - name: "Spiccato"
+    short: "spic"
+    keyswitch: 42
+    color: "#FF9800"
+    group: "length"
+
+  - name: "Staccato"
+    short: "stac"
+    keyswitch: 40
+    color: "#FF5722"
+    group: "length"
+
+  - name: "Pizzicato"
+    short: "pizz"
+    keyswitch: 56
+    color: "#9C27B0"
+    group: "length"
+
+  # Effects
+  - name: "Tremolo"
+    short: "trem"
+    keyswitch: 11
+    color: "#00BCD4"
+    group: "effect"
+
+  - name: "Trills (Minor 2nd)"
+    short: "trm2"
+    keyswitch: 70
+    color: "#E91E63"
+    group: "effect"
+
+  - name: "Trills (Major 2nd)"
+    short: "trM2"
+    keyswitch: 71
+    color: "#E91E63"
+    group: "effect"
+
+# Controllers
+dynamics:
+  type: "cc"
+  controller: 1  # Mod wheel for dynamics
+
+expression:
+  type: "cc"
+  controller: 11  # Expression

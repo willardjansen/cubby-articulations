@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cubbycomposer.com/schemas/expression-map.schema.json",
+  "title": "Cubby Articulations Expression Map",
+  "description": "Schema for expression map source files",
+  "type": "object",
+  "required": ["instrument", "articulations"],
+  "properties": {
+    "instrument": {
+      "type": "string",
+      "description": "Name of the instrument or section"
+    },
+    "patch": {
+      "type": "string",
+      "description": "Name of the patch/preset in the library"
+    },
+    "channel": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 16,
+      "description": "MIDI channel (1-16)"
+    },
+    "keyswitch_type": {
+      "type": "string",
+      "enum": ["keyswitch", "uacc", "program_change", "cc"],
+      "description": "Type of articulation switching"
+    },
+    "keyswitch_base": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 127,
+      "description": "Base MIDI note for key switches"
+    },
+    "cc_number": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 127,
+      "description": "CC number for CC-based switching"
+    },
+    "articulations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "keyswitch"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Full name of the articulation"
+          },
+          "short": {
+            "type": "string",
+            "maxLength": 6,
+            "description": "Short abbreviation (max 6 chars)"
+          },
+          "keyswitch": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 127,
+            "description": "MIDI note or CC value for this articulation"
+          },
+          "color": {
+            "type": "string",
+            "pattern": "^#[0-9A-Fa-f]{6}$",
+            "description": "Hex color for visual display"
+          },
+          "group": {
+            "type": "string",
+            "description": "Articulation group (for mutual exclusion)"
+          },
+          "description": {
+            "type": "string",
+            "description": "Optional description of the articulation"
+          }
+        }
+      }
+    },
+    "dynamics": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["cc", "velocity", "keyswitch"]
+        },
+        "controller": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 127
+        }
+      }
+    },
+    "expression": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["cc", "velocity"]
+        },
+        "controller": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 127
+        }
+      }
+    }
+  }
+}
