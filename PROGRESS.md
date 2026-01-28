@@ -87,6 +87,7 @@ See [ROADMAP.md](ROADMAP.md) for the full development roadmap with status indica
 ## Changelog
 
 ### 2025-01-28
+- Announced on [Reddit r/composer](https://www.reddit.com/r/composer/comments/1qpqa2v/free_opensource_expression_map_database_for/)
 - Announced on [Steinberg Forums](https://forums.steinberg.net/t/free-open-source-expression-map-database-cubby-articulations-community-project/1022305)
 - Announced on [VI-Control](https://vi-control.net/community/threads/cubby-articulations-free-open-source-expression-map-database-community-project.169892/)
 - Initial repository created

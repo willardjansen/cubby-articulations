@@ -16,7 +16,7 @@
 | Add Miroslav Philharmonik 2 (original) | Done |
 | Announce on VI-Control | Done |
 | Announce on Steinberg Forums | Done |
-| Announce on Reddit (r/composer, r/cubase) | Planned |
+| Announce on Reddit (r/composer) | Done |
 | Reach out to library developers for official free maps | Planned |
 | Import more community contributions | Ongoing |
 
