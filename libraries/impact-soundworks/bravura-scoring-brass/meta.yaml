@@ -1,0 +1,22 @@
+name: "Bravura Scoring Brass"
+developer: "Impact Soundworks"
+version: "1.0.0"
+category: "brass"
+website: "https://impactsoundworks.com/product/bravura-scoring-brass/"
+
+attribution:
+  original_author: "alvsvartr"
+  original_source: "https://github.com/alvsvartr/Cubase-Expression-Maps"
+  original_license: "Open source"
+  imported_by: "Cubby Articulations"
+  import_date: "2025-01-28"
+
+exports:
+  - cubase
+
+updated: "2025-01-28"
+
+tags:
+  - brass
+  - orchestral
+  - cinematic

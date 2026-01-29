@@ -1,0 +1,23 @@
+name: "Synchronized Special Edition"
+developer: "Vienna Symphonic Library"
+version: "1.0.0"
+category: "orchestral"
+website: "https://www.vsl.co.at/en/Synchronized_Series"
+
+attribution:
+  original_author: "Jared Thirsk"
+  original_source: "https://github.com/jaredthirsk/cubase-expression-maps"
+  original_license: "Unlicense"
+  imported_by: "Cubby Articulations"
+  import_date: "2025-01-28"
+
+exports:
+  - cubase
+
+updated: "2025-01-28"
+
+tags:
+  - orchestral
+  - full-orchestra
+  - synchronized
+  - special-edition

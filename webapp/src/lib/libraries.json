@@ -47,6 +47,75 @@
     "updated": "2024-01-13"
   },
   {
+    "path": "impact-soundworks/bravura-scoring-brass",
+    "name": "Bravura Scoring Brass",
+    "developer": "Impact Soundworks",
+    "category": "brass",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "brass",
+      "orchestral",
+      "cinematic"
+    ],
+    "website": "https://impactsoundworks.com/product/bravura-scoring-brass/",
+    "attribution": {
+      "original_author": "alvsvartr",
+      "original_source": "https://github.com/alvsvartr/Cubase-Expression-Maps",
+      "original_license": "Open source",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "impact-soundworks/rhapsody-orchestral-colors",
+    "name": "Rhapsody Orchestral Colors",
+    "developer": "Impact Soundworks",
+    "category": "orchestral",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "orchestral",
+      "cinematic",
+      "hybrid"
+    ],
+    "website": "https://impactsoundworks.com/product/rhapsody-orchestral-colors/",
+    "attribution": {
+      "original_author": "alvsvartr",
+      "original_source": "https://github.com/alvsvartr/Cubase-Expression-Maps",
+      "original_license": "Open source",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "native-instruments/symphony-brass-ensemble",
+    "name": "Symphony Series Brass Ensemble",
+    "developer": "Native Instruments",
+    "category": "brass",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "brass",
+      "orchestral",
+      "ensemble"
+    ],
+    "website": "https://www.native-instruments.com/en/products/komplete/orchestral/symphony-series-brass-ensemble/",
+    "attribution": {
+      "original_author": "alvsvartr",
+      "original_source": "https://github.com/alvsvartr/Cubase-Expression-Maps",
+      "original_license": "Open source",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
     "path": "spitfire/abbey-road-one",
     "name": "Abbey Road One: Orchestral Foundations",
     "developer": "Spitfire Audio",
@@ -120,6 +189,265 @@
       "source": "https://www.babylonwaves.com/free/",
       "license": "CC-BY-4.0",
       "confirmation": "Official free release from Babylonwaves for the Discover edition"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/big-bang-orchestra",
+    "name": "Big Bang Orchestra",
+    "developer": "Vienna Symphonic Library",
+    "category": "orchestral",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "orchestral",
+      "epic",
+      "cinematic",
+      "full-orchestra"
+    ],
+    "website": "https://www.vsl.co.at/en/Big_Bang_Orchestra",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/synchron-brass",
+    "name": "Synchron Brass",
+    "developer": "Vienna Symphonic Library",
+    "category": "brass",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "brass",
+      "orchestral",
+      "synchron"
+    ],
+    "website": "https://www.vsl.co.at/en/Synchron_Brass",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/synchron-drums",
+    "name": "Synchron Drums",
+    "developer": "Vienna Symphonic Library",
+    "category": "percussion",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "percussion",
+      "drums",
+      "orchestral",
+      "synchron"
+    ],
+    "website": "https://www.vsl.co.at/en/Synchron_Series",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/synchron-elite-strings",
+    "name": "Synchron Elite Strings",
+    "developer": "Vienna Symphonic Library",
+    "category": "strings",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "strings",
+      "orchestral",
+      "synchron",
+      "chamber"
+    ],
+    "website": "https://www.vsl.co.at/en/Synchron_Strings/Synchron_Elite_Strings",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/synchron-strings-pro",
+    "name": "Synchron Strings Pro",
+    "developer": "Vienna Symphonic Library",
+    "category": "strings",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "strings",
+      "orchestral",
+      "synchron"
+    ],
+    "website": "https://www.vsl.co.at/en/Synchron_Strings/Synchron_Strings_Pro",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/synchronized-appassionata-strings",
+    "name": "Synchronized Appassionata Strings",
+    "developer": "Vienna Symphonic Library",
+    "category": "strings",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "strings",
+      "orchestral",
+      "synchronized",
+      "appassionata"
+    ],
+    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/synchronized-dimension-strings",
+    "name": "Synchronized Dimension Strings",
+    "developer": "Vienna Symphonic Library",
+    "category": "strings",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "strings",
+      "orchestral",
+      "synchronized",
+      "dimension"
+    ],
+    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/synchronized-solo-strings",
+    "name": "Synchronized Solo Strings",
+    "developer": "Vienna Symphonic Library",
+    "category": "strings",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "strings",
+      "solo",
+      "synchronized"
+    ],
+    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/synchronized-special-edition",
+    "name": "Synchronized Special Edition",
+    "developer": "Vienna Symphonic Library",
+    "category": "orchestral",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "orchestral",
+      "full-orchestra",
+      "synchronized",
+      "special-edition"
+    ],
+    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/synchronized-woodwinds",
+    "name": "Synchronized Woodwinds",
+    "developer": "Vienna Symphonic Library",
+    "category": "woodwinds",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "woodwinds",
+      "orchestral",
+      "synchronized"
+    ],
+    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "vsl/vi-special-edition",
+    "name": "VI Special Edition",
+    "developer": "Vienna Symphonic Library",
+    "category": "orchestral",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "orchestral",
+      "full-orchestra",
+      "vienna-instruments"
+    ],
+    "website": "https://www.vsl.co.at/en/Vienna_Instruments_Series",
+    "attribution": {
+      "original_author": "Jared Thirsk",
+      "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+      "original_license": "Unlicense",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
     },
     "updated": "2025-01-28"
   }

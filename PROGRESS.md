@@ -9,8 +9,8 @@
 | Metric | Count |
 |--------|-------|
 | Total Files | 183+ |
-| Developers Covered | 5 |
-| Libraries Covered | 15+ |
+| Developers Covered | 6 |
+| Libraries Covered | 19 |
 | Cubase Expression Maps | 130+ |
 | Logic Articulation Sets | 55+ |
 | Studio One Sound Variations | 0 |

@@ -1,0 +1,22 @@
+name: "Symphony Series Brass Ensemble"
+developer: "Native Instruments"
+version: "1.0.0"
+category: "brass"
+website: "https://www.native-instruments.com/en/products/komplete/orchestral/symphony-series-brass-ensemble/"
+
+attribution:
+  original_author: "alvsvartr"
+  original_source: "https://github.com/alvsvartr/Cubase-Expression-Maps"
+  original_license: "Open source"
+  imported_by: "Cubby Articulations"
+  import_date: "2025-01-28"
+
+exports:
+  - cubase
+
+updated: "2025-01-28"
+
+tags:
+  - brass
+  - orchestral
+  - ensemble

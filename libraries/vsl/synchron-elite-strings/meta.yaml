@@ -1,0 +1,23 @@
+name: "Synchron Elite Strings"
+developer: "Vienna Symphonic Library"
+version: "1.0.0"
+category: "strings"
+website: "https://www.vsl.co.at/en/Synchron_Strings/Synchron_Elite_Strings"
+
+attribution:
+  original_author: "Jared Thirsk"
+  original_source: "https://github.com/jaredthirsk/cubase-expression-maps"
+  original_license: "Unlicense"
+  imported_by: "Cubby Articulations"
+  import_date: "2025-01-28"
+
+exports:
+  - cubase
+
+updated: "2025-01-28"
+
+tags:
+  - strings
+  - orchestral
+  - synchron
+  - chamber

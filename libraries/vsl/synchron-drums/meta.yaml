@@ -1,0 +1,23 @@
+name: "Synchron Drums"
+developer: "Vienna Symphonic Library"
+version: "1.0.0"
+category: "percussion"
+website: "https://www.vsl.co.at/en/Synchron_Series"
+
+attribution:
+  original_author: "Jared Thirsk"
+  original_source: "https://github.com/jaredthirsk/cubase-expression-maps"
+  original_license: "Unlicense"
+  imported_by: "Cubby Articulations"
+  import_date: "2025-01-28"
+
+exports:
+  - cubase
+
+updated: "2025-01-28"
+
+tags:
+  - percussion
+  - drums
+  - orchestral
+  - synchron
