@@ -1,6 +1,6 @@
 # Cubby Articulations - Roadmap
 
-## Current Phase: 1 - Content Growth
+## Current Phase: 2 - Tooling
 
 ---
 
@@ -23,13 +23,13 @@
 ---
 
 ## Phase 2: Tooling
-**Status:** Not Started
+**Status:** In Progress
 
 | Task | Status |
 |------|--------|
+| Set up GitHub Actions for PR validation | Done |
+| Create CLI tool for easy downloads | Done |
 | Fork/wrap KeySwitchManager for format conversion | Planned |
-| Create CLI tool for easy downloads | Planned |
-| Set up GitHub Actions for PR validation | Planned |
 | Auto-generate exports from YAML source files | Planned |
 
 ---

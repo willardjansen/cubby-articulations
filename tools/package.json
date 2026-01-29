@@ -1,0 +1,31 @@
+{
+  "name": "cubby-articulations",
+  "version": "1.0.0",
+  "description": "CLI tool for downloading expression maps from Cubby Articulations database",
+  "main": "download.js",
+  "bin": {
+    "cubby-articulations": "./download.js"
+  },
+  "scripts": {
+    "test": "node download.js --help"
+  },
+  "keywords": [
+    "cubase",
+    "expression-maps",
+    "logic-pro",
+    "articulations",
+    "daw",
+    "midi",
+    "orchestral",
+    "sample-libraries"
+  ],
+  "author": "Willard Jansen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willardjansen/cubby-articulations"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

@@ -1,6 +1,6 @@
 # Cubby Articulations - Development Progress
 
-## Current Status: Phase 1 - Content Growth
+## Current Status: Phase 2 - Tooling (In Progress)
 
 ---
 
@@ -85,6 +85,20 @@ See [ROADMAP.md](ROADMAP.md) for the full development roadmap with status indica
 ---
 
 ## Changelog
+
+### 2026-01-29 - Phase 2: Tooling Started
+- Added GitHub Actions workflow for PR validation (`.github/workflows/validate-pr.yml`)
+  - Validates meta.yaml syntax and required fields
+  - Checks exports folder structure
+  - Runs on all PRs affecting `libraries/`
+- Created CLI tool for downloads (`tools/download.js`)
+  - `list` - List all libraries with filtering by developer/DAW
+  - `search` - Search libraries by name or tags
+  - `download` - Download expression maps for a specific library
+  - `info` - Show library details
+- Added npm package configuration (`tools/package.json`)
+
+---
 
 ### 2025-01-28
 - Announced on [Reddit r/composer](https://www.reddit.com/r/composer/comments/1qpqa2v/free_opensource_expression_map_database_for/)

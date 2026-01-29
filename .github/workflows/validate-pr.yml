@@ -1,0 +1,115 @@
+name: Validate PR
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'libraries/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          npm install -g ajv-cli ajv-formats js-yaml
+
+      - name: Find changed libraries
+        id: changed
+        run: |
+          # Get list of changed files in libraries/
+          CHANGED=$(git diff --name-only origin/main...HEAD -- 'libraries/' | grep -E '^libraries/[^/]+/[^/]+/' | cut -d'/' -f1-3 | sort -u || true)
+          echo "Libraries changed: $CHANGED"
+          echo "libraries=$CHANGED" >> $GITHUB_OUTPUT
+
+      - name: Validate meta.yaml files
+        run: |
+          set -e
+
+          echo "Validating meta.yaml files..."
+
+          # Find all meta.yaml files in changed libraries
+          for lib_path in $(git diff --name-only origin/main...HEAD -- 'libraries/' | grep -E '^libraries/[^/]+/[^/]+/' | cut -d'/' -f1-3 | sort -u); do
+            meta_file="$lib_path/meta.yaml"
+
+            if [ -f "$meta_file" ]; then
+              echo "Checking $meta_file..."
+
+              # Validate YAML syntax
+              node -e "
+                const yaml = require('js-yaml');
+                const fs = require('fs');
+                try {
+                  const doc = yaml.load(fs.readFileSync('$meta_file', 'utf8'));
+
+                  // Check required fields
+                  const required = ['name', 'developer', 'attribution'];
+                  const missing = required.filter(f => !doc[f]);
+
+                  if (missing.length > 0) {
+                    console.error('Missing required fields: ' + missing.join(', '));
+                    process.exit(1);
+                  }
+
+                  // Check attribution has required fields
+                  const attr = doc.attribution;
+                  if (attr) {
+                    const needsOriginal = attr.original_author || attr.original_source;
+                    const isOriginal = attr.author && attr.license;
+
+                    if (!needsOriginal && !isOriginal) {
+                      console.error('Attribution must have either (author + license) or (original_author + original_source)');
+                      process.exit(1);
+                    }
+                  }
+
+                  console.log('✓ $meta_file is valid');
+                } catch (e) {
+                  console.error('Error parsing $meta_file: ' + e.message);
+                  process.exit(1);
+                }
+              "
+            else
+              echo "Warning: No meta.yaml found at $meta_file"
+            fi
+          done
+
+          echo "All validations passed!"
+
+      - name: Check for required exports folder
+        run: |
+          for lib_path in $(git diff --name-only origin/main...HEAD -- 'libraries/' | grep -E '^libraries/[^/]+/[^/]+/' | cut -d'/' -f1-3 | sort -u); do
+            exports_dir="$lib_path/exports"
+
+            if [ ! -d "$exports_dir" ]; then
+              echo "Warning: No exports folder at $exports_dir"
+            else
+              # Check at least one DAW folder has files
+              has_files=false
+              for daw in cubase logic studio-one dorico reaper; do
+                if [ -d "$exports_dir/$daw" ] && [ "$(ls -A $exports_dir/$daw 2>/dev/null)" ]; then
+                  has_files=true
+                  echo "✓ Found exports in $exports_dir/$daw"
+                fi
+              done
+
+              if [ "$has_files" = false ]; then
+                echo "Error: No export files found in $exports_dir"
+                exit 1
+              fi
+            fi
+          done
+
+      - name: Summary
+        run: |
+          echo "## Validation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "All checks passed!" >> $GITHUB_STEP_SUMMARY
