@@ -35,7 +35,7 @@
 ---
 
 ## Phase 3: Search Webapp
-**Status:** In Progress
+**Status:** Complete
 
 | Task | Status |
 |------|--------|
