@@ -101,24 +101,9 @@ See [ROADMAP.md](ROADMAP.md) for planned features and development status.
 
 ---
 
-## Contributing
+## Share Your Maps
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-### Ways to Contribute
-
-1. **Submit new maps** - Create maps for libraries we don't have yet
-2. **Improve existing maps** - Fix errors, add missing articulations
-3. **Review submissions** - Help validate community contributions
-4. **Report issues** - Found a bug? Let us know
-
-### Don't Know Git?
-
-No problem! You can also contribute by:
-1. [Open an issue](https://github.com/willardjansen/cubby-articulations/issues/new)
-2. Attach your expression map files
-3. Tell us which library and DAW it's for
-4. We'll add it with credit to you
+**👉 [Upload your expression maps here](https://github.com/willardjansen/cubby-articulations/discussions/new?category=share-your-maps)** - just drag & drop your files and tell us what library it's for. We'll handle the rest.
 
 ---
 
