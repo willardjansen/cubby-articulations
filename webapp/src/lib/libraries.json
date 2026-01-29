@@ -206,7 +206,7 @@
       "cinematic",
       "full-orchestra"
     ],
-    "website": "https://www.vsl.co.at/en/Big_Bang_Orchestra",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -229,7 +229,7 @@
       "orchestral",
       "synchron"
     ],
-    "website": "https://www.vsl.co.at/en/Synchron_Brass",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -253,7 +253,7 @@
       "orchestral",
       "synchron"
     ],
-    "website": "https://www.vsl.co.at/en/Synchron_Series",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -277,7 +277,7 @@
       "synchron",
       "chamber"
     ],
-    "website": "https://www.vsl.co.at/en/Synchron_Strings/Synchron_Elite_Strings",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -300,7 +300,7 @@
       "orchestral",
       "synchron"
     ],
-    "website": "https://www.vsl.co.at/en/Synchron_Strings/Synchron_Strings_Pro",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -324,7 +324,7 @@
       "synchronized",
       "appassionata"
     ],
-    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -348,7 +348,7 @@
       "synchronized",
       "dimension"
     ],
-    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -371,7 +371,7 @@
       "solo",
       "synchronized"
     ],
-    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -395,7 +395,7 @@
       "synchronized",
       "special-edition"
     ],
-    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -418,7 +418,7 @@
       "orchestral",
       "synchronized"
     ],
-    "website": "https://www.vsl.co.at/en/Synchronized_Series",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
@@ -441,7 +441,7 @@
       "full-orchestra",
       "vienna-instruments"
     ],
-    "website": "https://www.vsl.co.at/en/Vienna_Instruments_Series",
+    "website": "https://www.vsl.co.at/en/Products",
     "attribution": {
       "original_author": "Jared Thirsk",
       "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
