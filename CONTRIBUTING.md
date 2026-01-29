@@ -4,6 +4,21 @@ Thank you for your interest in contributing! This project thrives on community c
 
 ---
 
+## 🎯 Easy Way: Just Upload Your Files
+
+**Don't want to deal with YAML files and pull requests?** No problem!
+
+1. **Zip your expression maps** (.expressionmap, .patchlist, or whatever format you have)
+2. **Go to [Discussions → Share Your Maps](https://github.com/willardjansen/cubby-articulations/discussions/categories/share-your-maps)**
+3. **Create a new post**, drag & drop your zip, and tell us:
+   - What library is this for?
+   - Did you create it yourself or where did you get it?
+   - What DAW(s) does it work with?
+
+**That's it!** We'll handle the rest and add your maps to the collection with proper credit.
+
+---
+
 > ## STOP! READ THIS FIRST
 >
 > ### What You CANNOT Contribute
