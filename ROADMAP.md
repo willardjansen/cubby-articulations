@@ -45,7 +45,7 @@
 | Browse by category filter | Done |
 | Direct download buttons | Done |
 | "Request library" feature | Planned |
-| Deploy to articulations.cubbycomposer.com | Planned |
+| Deploy to articulations.cubbycomposer.com | Done |
 
 ---
 

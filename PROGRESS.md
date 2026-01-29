@@ -106,7 +106,7 @@ See [ROADMAP.md](ROADMAP.md) for the full development roadmap with status indica
   - Direct download links to GitHub
   - Cubby pink/purple dark theme
 - Build script generates `libraries.json` from meta.yaml files
-- Ready to deploy to articulations.cubbycomposer.com
+- Deployed to https://articulations.cubbycomposer.com
 
 ---
 
