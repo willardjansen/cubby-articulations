@@ -1,0 +1,126 @@
+[
+  {
+    "path": "cinematic-studio-series/cinematic-studio-strings",
+    "name": "Cinematic Studio Strings",
+    "developer": "Cinematic Studio Series",
+    "category": "strings",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "strings",
+      "cinematic",
+      "film-scoring"
+    ],
+    "website": "https://cinematicstudioseries.com/strings/",
+    "attribution": {
+      "original_author": "alvsvartr",
+      "original_source": "https://github.com/alvsvartr/Cubase-Expression-Maps",
+      "original_license": "Open source",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "ik-multimedia/miroslav-philharmonik-2",
+    "name": "Miroslav Philharmonik 2",
+    "developer": "IK Multimedia",
+    "category": "orchestral",
+    "exports": [
+      "cubase"
+    ],
+    "tags": [
+      "strings",
+      "brass",
+      "woodwinds",
+      "full-orchestra",
+      "solo-instruments"
+    ],
+    "website": "https://www.ikmultimedia.com/products/philharmonik2/",
+    "attribution": {
+      "author": "Willard Jansen",
+      "source": "Original creation",
+      "license": "MIT",
+      "confirmation": "I created these expression maps myself from scratch for my own projects"
+    },
+    "updated": "2024-01-13"
+  },
+  {
+    "path": "spitfire/abbey-road-one",
+    "name": "Abbey Road One: Orchestral Foundations",
+    "developer": "Spitfire Audio",
+    "category": "orchestral",
+    "exports": [
+      "logic"
+    ],
+    "tags": [
+      "strings",
+      "brass",
+      "woodwinds",
+      "percussion",
+      "full-orchestra"
+    ],
+    "website": "https://www.spitfireaudio.com/abbey-road-one",
+    "attribution": {
+      "original_author": "Simon Lehmann",
+      "original_source": "https://github.com/simonlehmann/logic-pro-articulation-sets-for-abbey-road-one",
+      "original_license": "MIT",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "spitfire/bbc-symphony-orchestra",
+    "name": "BBC Symphony Orchestra",
+    "developer": "Spitfire Audio",
+    "category": "orchestral",
+    "exports": [
+      "logic"
+    ],
+    "tags": [
+      "strings",
+      "brass",
+      "woodwinds",
+      "percussion",
+      "harp",
+      "full-orchestra"
+    ],
+    "website": "https://www.spitfireaudio.com/bbc-symphony-orchestra",
+    "attribution": {
+      "original_author": "Simon Lehmann",
+      "original_source": "https://github.com/simonlehmann/logic-pro-articulation-sets-for-bbc-symphony-orchestra",
+      "original_license": "MIT",
+      "imported_by": "Cubby Articulations",
+      "import_date": "2025-01-28"
+    },
+    "updated": "2025-01-28"
+  },
+  {
+    "path": "spitfire/bbc-symphony-orchestra-discover",
+    "name": "BBC Symphony Orchestra Discover",
+    "developer": "Spitfire Audio",
+    "category": "orchestral",
+    "exports": [
+      "cubase",
+      "logic"
+    ],
+    "tags": [
+      "strings",
+      "brass",
+      "woodwinds",
+      "percussion",
+      "full-orchestra",
+      "free-library"
+    ],
+    "website": "https://www.spitfireaudio.com/bbc-symphony-orchestra",
+    "attribution": {
+      "author": "Babylonwaves",
+      "source": "https://www.babylonwaves.com/free/",
+      "license": "CC-BY-4.0",
+      "confirmation": "Official free release from Babylonwaves for the Discover edition"
+    },
+    "updated": "2025-01-28"
+  }
+]

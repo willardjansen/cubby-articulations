@@ -86,7 +86,8 @@ See [ROADMAP.md](ROADMAP.md) for the full development roadmap with status indica
 
 ## Changelog
 
-### 2026-01-29 - Phase 2: Tooling Started
+### 2026-01-29 - Phase 2 & 3: Tooling and Webapp
+**Phase 2: Tooling**
 - Added GitHub Actions workflow for PR validation (`.github/workflows/validate-pr.yml`)
   - Validates meta.yaml syntax and required fields
   - Checks exports folder structure
@@ -97,6 +98,15 @@ See [ROADMAP.md](ROADMAP.md) for the full development roadmap with status indica
   - `download` - Download expression maps for a specific library
   - `info` - Show library details
 - Added npm package configuration (`tools/package.json`)
+
+**Phase 3: Search Webapp**
+- Created Next.js static site (`webapp/`)
+  - Browse all libraries with search and filters
+  - Filter by developer, DAW format, category
+  - Direct download links to GitHub
+  - Cubby pink/purple dark theme
+- Build script generates `libraries.json` from meta.yaml files
+- Ready to deploy to articulations.cubbycomposer.com
 
 ---
 

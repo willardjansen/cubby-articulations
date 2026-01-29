@@ -35,15 +35,15 @@
 ---
 
 ## Phase 3: Search Webapp
-**Status:** Not Started
+**Status:** In Progress
 
 | Task | Status |
 |------|--------|
-| Build Next.js static site | Planned |
-| Browse by developer filter | Planned |
-| Browse by DAW filter | Planned |
-| Browse by category filter | Planned |
-| Direct download buttons | Planned |
+| Build Next.js static site | Done |
+| Browse by developer filter | Done |
+| Browse by DAW filter | Done |
+| Browse by category filter | Done |
+| Direct download buttons | Done |
 | "Request library" feature | Planned |
 | Deploy to articulations.cubbycomposer.com | Planned |
 
