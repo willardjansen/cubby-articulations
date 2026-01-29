@@ -2,7 +2,7 @@
 
 ## Upload Your Maps
 
-**[Click here to upload](https://github.com/willardjansen/cubby-articulations/discussions/new?category=share-your-maps)** - drag & drop your files, tell us what library it's for. Done.
+**[Click here to upload](https://github.com/willardjansen/cubby-articulations/discussions)** - drag & drop your files, tell us what library it's for. Done.
 
 ---
 

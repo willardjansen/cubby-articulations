@@ -103,7 +103,7 @@ See [ROADMAP.md](ROADMAP.md) for planned features and development status.
 
 ## Share Your Maps
 
-**👉 [Upload your expression maps here](https://github.com/willardjansen/cubby-articulations/discussions/new?category=share-your-maps)** - just drag & drop your files and tell us what library it's for. We'll handle the rest.
+**👉 [Upload your expression maps here](https://github.com/willardjansen/cubby-articulations/discussions)** - just drag & drop your files and tell us what library it's for. We'll handle the rest.
 
 ---
 
