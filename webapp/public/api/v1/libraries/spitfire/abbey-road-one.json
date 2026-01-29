@@ -1,0 +1,73 @@
+{
+  "path": "spitfire/abbey-road-one",
+  "name": "Abbey Road One: Orchestral Foundations",
+  "developer": "Spitfire Audio",
+  "category": "orchestral",
+  "exports": [
+    "logic"
+  ],
+  "tags": [
+    "strings",
+    "brass",
+    "woodwinds",
+    "percussion",
+    "full-orchestra"
+  ],
+  "website": "https://www.spitfireaudio.com/abbey-road-one",
+  "attribution": {
+    "original_author": "Simon Lehmann",
+    "original_source": "https://github.com/simonlehmann/logic-pro-articulation-sets-for-abbey-road-one",
+    "original_license": "MIT",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "logic": {
+      "count": 10,
+      "files": [
+        {
+          "name": "AR1 Brass.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Brass.plist"
+        },
+        {
+          "name": "AR1 Drums.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Drums.plist"
+        },
+        {
+          "name": "AR1 Ledgendary Low Strings.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Ledgendary%20Low%20Strings.plist"
+        },
+        {
+          "name": "AR1 Metal.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Metal.plist"
+        },
+        {
+          "name": "AR1 Orchestra.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Orchestra.plist"
+        },
+        {
+          "name": "AR1 Percussion Ensembles.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Percussion%20Ensembles.plist"
+        },
+        {
+          "name": "AR1 Percussion.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Percussion.plist"
+        },
+        {
+          "name": "AR1 Strings.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Strings.plist"
+        },
+        {
+          "name": "AR1 Tuned Percussion.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Tuned%20Percussion.plist"
+        },
+        {
+          "name": "AR1 Woodwinds.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/abbey-road-one/exports/logic/AR1%20Woodwinds.plist"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/spitfire/abbey-road-one"
+}

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributing Guide
+    url: https://github.com/willardjansen/cubby-articulations/blob/main/CONTRIBUTING.md
+    about: Want to contribute expression maps? Check out the contributing guide first!
+  - name: Browse Expression Maps
+    url: https://articulations.cubbycomposer.com
+    about: Search and download expression maps from our webapp

@@ -1,0 +1,48 @@
+{
+  "path": "vsl/synchron-elite-strings",
+  "name": "Synchron Elite Strings",
+  "developer": "Vienna Symphonic Library",
+  "category": "strings",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "strings",
+    "orchestral",
+    "synchron",
+    "chamber"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 4,
+      "files": [
+        {
+          "name": "SYE Cellos.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-elite-strings/exports/cubase/SYE%20Cellos.expressionmap"
+        },
+        {
+          "name": "SYE Double basses.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-elite-strings/exports/cubase/SYE%20Double%20basses.expressionmap"
+        },
+        {
+          "name": "SYE Tutti Compressed.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-elite-strings/exports/cubase/SYE%20Tutti%20Compressed.expressionmap"
+        },
+        {
+          "name": "SYE Violins and Violas.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-elite-strings/exports/cubase/SYE%20Violins%20and%20Violas.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/synchron-elite-strings"
+}

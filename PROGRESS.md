@@ -108,6 +108,30 @@ See [ROADMAP.md](ROADMAP.md) for the full development roadmap with status indica
 - Build script generates `libraries.json` from meta.yaml files
 - Deployed to https://articulations.cubbycomposer.com
 
+### 2026-01-29 - Request Library Feature
+- Added "Request a Library" page (`/request`)
+  - Form to submit library requests via GitHub Issues
+  - Collects library name, developer, preferred format, additional info
+  - Generates pre-filled GitHub issue URL
+- Added GitHub Issue templates (`.github/ISSUE_TEMPLATE/`)
+  - Library Request template with structured fields
+  - Bug Report template for expression map issues
+  - Config with contact links to webapp and contributing guide
+- Added "Request" link to site navigation
+- Added "Can't find what you're looking for?" CTA on homepage
+- Redeployed webapp to production
+
+### 2026-01-29 - Public API
+- Created static JSON API at `/api/v1/`
+- API Endpoints:
+  - `GET /api/v1/libraries.json` - List all libraries with metadata
+  - `GET /api/v1/libraries/{developer}/{library}.json` - Library details with download URLs
+  - `GET /api/v1/developers.json` - Libraries grouped by developer
+  - `GET /api/v1/categories.json` - Libraries grouped by category
+- Added API documentation page (`/api-docs`)
+- No authentication required, static files served via CDN
+- Ready for Cubby Remote integration
+
 ---
 
 ### 2025-01-28

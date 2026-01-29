@@ -1,0 +1,75 @@
+{
+  "path": "vsl/synchronized-woodwinds",
+  "name": "Synchronized Woodwinds",
+  "developer": "Vienna Symphonic Library",
+  "category": "woodwinds",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "woodwinds",
+    "orchestral",
+    "synchronized"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 11,
+      "files": [
+        {
+          "name": "SYd Alto flute.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Alto%20flute.expressionmap"
+        },
+        {
+          "name": "SYd Bass flute.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Bass%20flute.expressionmap"
+        },
+        {
+          "name": "SYd Basset horn.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Basset%20horn.expressionmap"
+        },
+        {
+          "name": "SYd Bassoon ensemble.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Bassoon%20ensemble.expressionmap"
+        },
+        {
+          "name": "SYd Clarinet Eb.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Clarinet%20Eb.expressionmap"
+        },
+        {
+          "name": "SYd Clarinet ensemble.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Clarinet%20ensemble.expressionmap"
+        },
+        {
+          "name": "SYd Contrabass clarinet.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Contrabass%20clarinet.expressionmap"
+        },
+        {
+          "name": "SYd Flute ensemble.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Flute%20ensemble.expressionmap"
+        },
+        {
+          "name": "SYd Heckelphone.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Heckelphone.expressionmap"
+        },
+        {
+          "name": "SYd Oboe d'amore.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Oboe%20d'amore.expressionmap"
+        },
+        {
+          "name": "SYd Oboe ensemble.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-woodwinds/exports/cubase/SYd%20Oboe%20ensemble.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/synchronized-woodwinds"
+}

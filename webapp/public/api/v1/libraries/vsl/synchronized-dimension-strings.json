@@ -1,0 +1,40 @@
+{
+  "path": "vsl/synchronized-dimension-strings",
+  "name": "Synchronized Dimension Strings",
+  "developer": "Vienna Symphonic Library",
+  "category": "strings",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "strings",
+    "orchestral",
+    "synchronized",
+    "dimension"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 2,
+      "files": [
+        {
+          "name": "SYd Dim Violins.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-dimension-strings/exports/cubase/SYd%20Dim%20Violins.expressionmap"
+        },
+        {
+          "name": "VSL SY Dim Viola.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-dimension-strings/exports/cubase/VSL%20SY%20Dim%20Viola.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/synchronized-dimension-strings"
+}

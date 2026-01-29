@@ -1,0 +1,44 @@
+{
+  "path": "vsl/synchron-drums",
+  "name": "Synchron Drums",
+  "developer": "Vienna Symphonic Library",
+  "category": "percussion",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "percussion",
+    "drums",
+    "orchestral",
+    "synchron"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 3,
+      "files": [
+        {
+          "name": "SY Lefima 28.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-drums/exports/cubase/SY%20Lefima%2028.expressionmap"
+        },
+        {
+          "name": "SY Roto Toms.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-drums/exports/cubase/SY%20Roto%20Toms.expressionmap"
+        },
+        {
+          "name": "SY Taikos.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-drums/exports/cubase/SY%20Taikos.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/synchron-drums"
+}

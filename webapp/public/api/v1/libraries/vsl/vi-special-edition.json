@@ -1,0 +1,35 @@
+{
+  "path": "vsl/vi-special-edition",
+  "name": "VI Special Edition",
+  "developer": "Vienna Symphonic Library",
+  "category": "orchestral",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "orchestral",
+    "full-orchestra",
+    "vienna-instruments"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 1,
+      "files": [
+        {
+          "name": "VI SE Trombone Ens.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/vi-special-edition/exports/cubase/VI%20SE%20Trombone%20Ens.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/vi-special-edition"
+}

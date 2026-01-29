@@ -1,0 +1,214 @@
+{
+  "path": "spitfire/bbc-symphony-orchestra",
+  "name": "BBC Symphony Orchestra",
+  "developer": "Spitfire Audio",
+  "category": "orchestral",
+  "exports": [
+    "logic"
+  ],
+  "tags": [
+    "strings",
+    "brass",
+    "woodwinds",
+    "percussion",
+    "harp",
+    "full-orchestra"
+  ],
+  "website": "https://www.spitfireaudio.com/bbc-symphony-orchestra",
+  "attribution": {
+    "original_author": "Simon Lehmann",
+    "original_source": "https://github.com/simonlehmann/logic-pro-articulation-sets-for-bbc-symphony-orchestra",
+    "original_license": "MIT",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "logic": {
+      "count": 45,
+      "files": [
+        {
+          "name": "BBCSO Bass Clarinet.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Bass%20Clarinet.plist"
+        },
+        {
+          "name": "BBCSO Bass Flute.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Bass%20Flute.plist"
+        },
+        {
+          "name": "BBCSO Bass Trombones a2.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Bass%20Trombones%20a2.plist"
+        },
+        {
+          "name": "BBCSO Basses Leaderplist.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Basses%20Leaderplist.plist"
+        },
+        {
+          "name": "BBCSO Basses.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Basses.plist"
+        },
+        {
+          "name": "BBCSO Bassoon.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Bassoon.plist"
+        },
+        {
+          "name": "BBCSO Bassoons a3.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Bassoons%20a3.plist"
+        },
+        {
+          "name": "BBCSO Celeste.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Celeste.plist"
+        },
+        {
+          "name": "BBCSO Celli Leader.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Celli%20Leader.plist"
+        },
+        {
+          "name": "BBCSO Celli.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Celli.plist"
+        },
+        {
+          "name": "BBCSO Cimbasso.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Cimbasso.plist"
+        },
+        {
+          "name": "BBCSO Clarinet.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Clarinet.plist"
+        },
+        {
+          "name": "BBCSO Clarinets a3.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Clarinets%20a3.plist"
+        },
+        {
+          "name": "BBCSO Contrabass Clarinet.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Contrabass%20Clarinet.plist"
+        },
+        {
+          "name": "BBCSO Contrabass Trombone.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Contrabass%20Trombone.plist"
+        },
+        {
+          "name": "BBCSO Contrabass Tuba.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Contrabass%20Tuba.plist"
+        },
+        {
+          "name": "BBCSO Contrabassoon.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Contrabassoon.plist"
+        },
+        {
+          "name": "BBCSO Cor Anglais.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Cor%20Anglais.plist"
+        },
+        {
+          "name": "BBCSO Crotales.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Crotales.plist"
+        },
+        {
+          "name": "BBCSO Flute.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Flute.plist"
+        },
+        {
+          "name": "BBCSO Flutes a3.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Flutes%20a3.plist"
+        },
+        {
+          "name": "BBCSO Glockenspiel.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Glockenspiel.plist"
+        },
+        {
+          "name": "BBCSO Harp.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Harp.plist"
+        },
+        {
+          "name": "BBCSO Horn.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Horn.plist"
+        },
+        {
+          "name": "BBCSO Horns a4.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Horns%20a4.plist"
+        },
+        {
+          "name": "BBCSO Marimba.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Marimba.plist"
+        },
+        {
+          "name": "BBCSO Oboe.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Oboe.plist"
+        },
+        {
+          "name": "BBCSO Oboes a3.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Oboes%20a3.plist"
+        },
+        {
+          "name": "BBCSO Piccolo.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Piccolo.plist"
+        },
+        {
+          "name": "BBCSO Tenor Trombone.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Tenor%20Trombone.plist"
+        },
+        {
+          "name": "BBCSO Tenor Trombones a3.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Tenor%20Trombones%20a3.plist"
+        },
+        {
+          "name": "BBCSO Timpani.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Timpani.plist"
+        },
+        {
+          "name": "BBCSO Trumpet a3.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Trumpet%20a3.plist"
+        },
+        {
+          "name": "BBCSO Trumpet.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Trumpet.plist"
+        },
+        {
+          "name": "BBCSO Tuba.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Tuba.plist"
+        },
+        {
+          "name": "BBCSO Tubular Bells.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Tubular%20Bells.plist"
+        },
+        {
+          "name": "BBCSO Untuned Perc.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Untuned%20Perc.plist"
+        },
+        {
+          "name": "BBCSO Vibraphone.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Vibraphone.plist"
+        },
+        {
+          "name": "BBCSO Violas Leader.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Violas%20Leader.plist"
+        },
+        {
+          "name": "BBCSO Violas.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Violas.plist"
+        },
+        {
+          "name": "BBCSO Violins 1 Leader.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Violins%201%20Leader.plist"
+        },
+        {
+          "name": "BBCSO Violins 1.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Violins%201.plist"
+        },
+        {
+          "name": "BBCSO Violins 2 Leader.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Violins%202%20Leader.plist"
+        },
+        {
+          "name": "BBCSO Violins 2.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Violins%202.plist"
+        },
+        {
+          "name": "BBCSO Xylophone.plist",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/spitfire/bbc-symphony-orchestra/exports/logic/BBCSO%20Xylophone.plist"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/spitfire/bbc-symphony-orchestra"
+}

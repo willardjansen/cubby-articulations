@@ -121,6 +121,30 @@ export default function Home() {
           </button>
         </div>
       )}
+
+      <div className="mt-16 bg-gradient-to-r from-cubby-purple/10 to-cubby-pink/10 rounded-xl p-8 border border-white/10 text-center">
+        <h2 className="text-2xl font-bold mb-3">Can't find what you're looking for?</h2>
+        <p className="text-gray-400 mb-6 max-w-xl mx-auto">
+          Request an expression map for your library and the community may create one.
+          Or contribute your own maps to help fellow composers!
+        </p>
+        <div className="flex gap-4 justify-center flex-wrap">
+          <a
+            href="/request"
+            className="px-6 py-3 bg-gradient-to-r from-cubby-pink to-cubby-purple rounded-lg font-medium hover:opacity-90 transition-opacity"
+          >
+            Request a Library
+          </a>
+          <a
+            href="https://github.com/willardjansen/cubby-articulations/blob/main/CONTRIBUTING.md"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-6 py-3 bg-white/10 rounded-lg font-medium hover:bg-white/20 transition-colors"
+          >
+            Contribute Maps
+          </a>
+        </div>
+      </div>
     </div>
   );
 }

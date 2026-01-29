@@ -1,0 +1,58 @@
+name: Library Request
+description: Request an expression map for a library that's not in the database
+title: "[Request] "
+labels: ["request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a library request! Fill out the details below and the community may create an expression map for it.
+
+  - type: input
+    id: library-name
+    attributes:
+      label: Library Name
+      description: The name of the sample library
+      placeholder: e.g., Berlin Strings
+    validations:
+      required: true
+
+  - type: input
+    id: developer
+    attributes:
+      label: Developer
+      description: Who makes this library?
+      placeholder: e.g., Orchestral Tools
+    validations:
+      required: true
+
+  - type: dropdown
+    id: format
+    attributes:
+      label: Preferred Format
+      description: Which DAW format do you need?
+      options:
+        - Cubase Expression Map
+        - Logic Pro Articulation Set
+        - Studio One Sound Variations
+        - Dorico Expression Map
+        - Reaper Reabanks
+        - Any format
+    validations:
+      required: true
+
+  - type: input
+    id: product-url
+    attributes:
+      label: Product URL
+      description: Link to the library's product page (optional but helpful)
+      placeholder: https://...
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Any specific articulations or features you need? Any other context?
+      placeholder: |
+        - I mainly need the legato and staccato articulations
+        - The library has a patch structure of...

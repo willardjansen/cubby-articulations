@@ -1,0 +1,59 @@
+{
+  "path": "cinematic-studio-series/cinematic-studio-strings",
+  "name": "Cinematic Studio Strings",
+  "developer": "Cinematic Studio Series",
+  "category": "strings",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "strings",
+    "cinematic",
+    "film-scoring"
+  ],
+  "website": "https://cinematicstudioseries.com/strings/",
+  "attribution": {
+    "original_author": "alvsvartr",
+    "original_source": "https://github.com/alvsvartr/Cubase-Expression-Maps",
+    "original_license": "Open source",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 7,
+      "files": [
+        {
+          "name": "CSS Basses.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/cinematic-studio-series/cinematic-studio-strings/exports/cubase/CSS%20Basses.expressionmap"
+        },
+        {
+          "name": "CSS Cellos.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/cinematic-studio-series/cinematic-studio-strings/exports/cubase/CSS%20Cellos.expressionmap"
+        },
+        {
+          "name": "CSS Full Ensemble.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/cinematic-studio-series/cinematic-studio-strings/exports/cubase/CSS%20Full%20Ensemble.expressionmap"
+        },
+        {
+          "name": "CSS Keyswich CC.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/cinematic-studio-series/cinematic-studio-strings/exports/cubase/CSS%20Keyswich%20CC.expressionmap"
+        },
+        {
+          "name": "CSS Lite Ensemble.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/cinematic-studio-series/cinematic-studio-strings/exports/cubase/CSS%20Lite%20Ensemble.expressionmap"
+        },
+        {
+          "name": "CSS Violas.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/cinematic-studio-series/cinematic-studio-strings/exports/cubase/CSS%20Violas.expressionmap"
+        },
+        {
+          "name": "CSS Violins.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/cinematic-studio-series/cinematic-studio-strings/exports/cubase/CSS%20Violins.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/cinematic-studio-series/cinematic-studio-strings"
+}

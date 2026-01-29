@@ -1,0 +1,61 @@
+name: Bug Report
+description: Report an issue with an expression map or the website
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out the details below.
+
+  - type: dropdown
+    id: bug-type
+    attributes:
+      label: Bug Type
+      description: What kind of issue is this?
+      options:
+        - Expression map issue (wrong articulations, keyswitches, etc.)
+        - Website issue
+        - CLI tool issue
+        - Documentation issue
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: library
+    attributes:
+      label: Library (if applicable)
+      description: Which library is affected?
+      placeholder: e.g., BBC Symphony Orchestra Discover
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What's wrong?
+      placeholder: Describe the bug in detail...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Download the expression map for...
+        2. Import into Cubase...
+        3. Try to...
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should happen instead?
+
+  - type: input
+    id: daw-version
+    attributes:
+      label: DAW Version (if applicable)
+      placeholder: e.g., Cubase 13 Pro

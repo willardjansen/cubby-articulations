@@ -1,0 +1,91 @@
+{
+  "path": "vsl/synchron-brass",
+  "name": "Synchron Brass",
+  "developer": "Vienna Symphonic Library",
+  "category": "brass",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "brass",
+    "orchestral",
+    "synchron"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 15,
+      "files": [
+        {
+          "name": "SYB Bass trombone.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Bass%20trombone.expressionmap"
+        },
+        {
+          "name": "SYB Bass tuba.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Bass%20tuba.expressionmap"
+        },
+        {
+          "name": "SYB Cimbasso.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Cimbasso.expressionmap"
+        },
+        {
+          "name": "SYB Giant tutti brass 28.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Giant%20tutti%20brass%2028.expressionmap"
+        },
+        {
+          "name": "SYB Horn 1.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Horn%201.expressionmap"
+        },
+        {
+          "name": "SYB Horns 12.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Horns%2012.expressionmap"
+        },
+        {
+          "name": "SYB Horns 6.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Horns%206.expressionmap"
+        },
+        {
+          "name": "SYB Low brass - 4BTb+Tu+CTu.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Low%20brass%20-%204BTb%2BTu%2BCTu.expressionmap"
+        },
+        {
+          "name": "SYB Low brass - 4BTb+Tu.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Low%20brass%20-%204BTb%2BTu.expressionmap"
+        },
+        {
+          "name": "SYB Tenor trombone 1.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Tenor%20trombone%201.expressionmap"
+        },
+        {
+          "name": "SYB Tenor trombones 4.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Tenor%20trombones%204.expressionmap"
+        },
+        {
+          "name": "SYB Tenor trombones 9.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Tenor%20trombones%209.expressionmap"
+        },
+        {
+          "name": "SYB Trumpet 1.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Trumpet%201.expressionmap"
+        },
+        {
+          "name": "SYB Trumpets 4.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Trumpets%204.expressionmap"
+        },
+        {
+          "name": "SYB Trumpets 6.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchron-brass/exports/cubase/SYB%20Trumpets%206.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/synchron-brass"
+}

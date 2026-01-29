@@ -1,0 +1,190 @@
+{
+  "version": "1.0",
+  "generated": "2026-01-29T10:06:21.346Z",
+  "count": 6,
+  "developers": [
+    {
+      "name": "Cinematic Studio Series",
+      "libraries": [
+        {
+          "path": "cinematic-studio-series/cinematic-studio-strings",
+          "name": "Cinematic Studio Strings",
+          "category": "strings",
+          "exports": [
+            "cubase"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IK Multimedia",
+      "libraries": [
+        {
+          "path": "ik-multimedia/miroslav-philharmonik-2",
+          "name": "Miroslav Philharmonik 2",
+          "category": "orchestral",
+          "exports": [
+            "cubase"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Impact Soundworks",
+      "libraries": [
+        {
+          "path": "impact-soundworks/bravura-scoring-brass",
+          "name": "Bravura Scoring Brass",
+          "category": "brass",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "impact-soundworks/rhapsody-orchestral-colors",
+          "name": "Rhapsody Orchestral Colors",
+          "category": "orchestral",
+          "exports": [
+            "cubase"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Native Instruments",
+      "libraries": [
+        {
+          "path": "native-instruments/symphony-brass-ensemble",
+          "name": "Symphony Series Brass Ensemble",
+          "category": "brass",
+          "exports": [
+            "cubase"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spitfire Audio",
+      "libraries": [
+        {
+          "path": "spitfire/abbey-road-one",
+          "name": "Abbey Road One: Orchestral Foundations",
+          "category": "orchestral",
+          "exports": [
+            "logic"
+          ]
+        },
+        {
+          "path": "spitfire/bbc-symphony-orchestra",
+          "name": "BBC Symphony Orchestra",
+          "category": "orchestral",
+          "exports": [
+            "logic"
+          ]
+        },
+        {
+          "path": "spitfire/bbc-symphony-orchestra-discover",
+          "name": "BBC Symphony Orchestra Discover",
+          "category": "orchestral",
+          "exports": [
+            "cubase",
+            "logic"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vienna Symphonic Library",
+      "libraries": [
+        {
+          "path": "vsl/big-bang-orchestra",
+          "name": "Big Bang Orchestra",
+          "category": "orchestral",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/synchron-brass",
+          "name": "Synchron Brass",
+          "category": "brass",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/synchron-drums",
+          "name": "Synchron Drums",
+          "category": "percussion",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/synchron-elite-strings",
+          "name": "Synchron Elite Strings",
+          "category": "strings",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/synchron-strings-pro",
+          "name": "Synchron Strings Pro",
+          "category": "strings",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/synchronized-appassionata-strings",
+          "name": "Synchronized Appassionata Strings",
+          "category": "strings",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/synchronized-dimension-strings",
+          "name": "Synchronized Dimension Strings",
+          "category": "strings",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/synchronized-solo-strings",
+          "name": "Synchronized Solo Strings",
+          "category": "strings",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/synchronized-special-edition",
+          "name": "Synchronized Special Edition",
+          "category": "orchestral",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/synchronized-woodwinds",
+          "name": "Synchronized Woodwinds",
+          "category": "woodwinds",
+          "exports": [
+            "cubase"
+          ]
+        },
+        {
+          "path": "vsl/vi-special-edition",
+          "name": "VI Special Edition",
+          "category": "orchestral",
+          "exports": [
+            "cubase"
+          ]
+        }
+      ]
+    }
+  ]
+}

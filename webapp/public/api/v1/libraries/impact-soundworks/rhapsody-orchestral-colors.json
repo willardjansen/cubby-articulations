@@ -1,0 +1,35 @@
+{
+  "path": "impact-soundworks/rhapsody-orchestral-colors",
+  "name": "Rhapsody Orchestral Colors",
+  "developer": "Impact Soundworks",
+  "category": "orchestral",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "orchestral",
+    "cinematic",
+    "hybrid"
+  ],
+  "website": "https://impactsoundworks.com/product/rhapsody-orchestral-colors/",
+  "attribution": {
+    "original_author": "alvsvartr",
+    "original_source": "https://github.com/alvsvartr/Cubase-Expression-Maps",
+    "original_license": "Open source",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 1,
+      "files": [
+        {
+          "name": "ISW Orchestral Colors.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/rhapsody-orchestral-colors/exports/cubase/ISW%20Orchestral%20Colors.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/impact-soundworks/rhapsody-orchestral-colors"
+}

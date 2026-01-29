@@ -1,0 +1,152 @@
+{
+  "path": "ik-multimedia/miroslav-philharmonik-2",
+  "name": "Miroslav Philharmonik 2",
+  "developer": "IK Multimedia",
+  "category": "orchestral",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "strings",
+    "brass",
+    "woodwinds",
+    "full-orchestra",
+    "solo-instruments"
+  ],
+  "website": "https://www.ikmultimedia.com/products/philharmonik2/",
+  "attribution": {
+    "author": "Willard Jansen",
+    "source": "Original creation",
+    "license": "MIT",
+    "confirmation": "I created these expression maps myself from scratch for my own projects"
+  },
+  "updated": "2024-01-13",
+  "downloads": {
+    "cubase": {
+      "count": 30,
+      "files": [
+        {
+          "name": "M PH DBASS Solo.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20PH%20DBASS%20Solo.expressionmap"
+        },
+        {
+          "name": "M PH DBass + Solo.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20PH%20DBass%20%2B%20Solo.expressionmap"
+        },
+        {
+          "name": "M PH DBasses.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20PH%20DBasses.expressionmap"
+        },
+        {
+          "name": "M PH Vlnc + Solo.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20PH%20Vlnc%20%2B%20Solo.expressionmap"
+        },
+        {
+          "name": "M PH Vlnc Solo.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20PH%20Vlnc%20Solo.expressionmap"
+        },
+        {
+          "name": "M PH Vlncs.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20PH%20Vlncs.expressionmap"
+        },
+        {
+          "name": "M Ph Solo Vln.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20Ph%20Solo%20Vln.expressionmap"
+        },
+        {
+          "name": "M Ph Vla + Solo.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20Ph%20Vla%20%2B%20Solo.expressionmap"
+        },
+        {
+          "name": "M Ph Vla solo.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20Ph%20Vla%20solo.expressionmap"
+        },
+        {
+          "name": "M Ph Vlas.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20Ph%20Vlas.expressionmap"
+        },
+        {
+          "name": "M Ph Vln1 + solo.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20Ph%20Vln1%20%2B%20solo.expressionmap"
+        },
+        {
+          "name": "M Ph Vln1.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/M%20Ph%20Vln1.expressionmap"
+        },
+        {
+          "name": "PG 2nd Trumpet.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PG%202nd%20Trumpet.expressionmap"
+        },
+        {
+          "name": "PH 1st Trumpet.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%201st%20Trumpet.expressionmap"
+        },
+        {
+          "name": "PH 3 Trombones.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%203%20Trombones.expressionmap"
+        },
+        {
+          "name": "PH 3 Trumpets.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%203%20Trumpets.expressionmap"
+        },
+        {
+          "name": "PH 4 Horns.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%204%20Horns.expressionmap"
+        },
+        {
+          "name": "PH Bass Clarinet.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Bass%20Clarinet.expressionmap"
+        },
+        {
+          "name": "PH Bass trombone.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Bass%20trombone.expressionmap"
+        },
+        {
+          "name": "PH Bassoon.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Bassoon.expressionmap"
+        },
+        {
+          "name": "PH Clarinet.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Clarinet.expressionmap"
+        },
+        {
+          "name": "PH Contra Bassoon.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Contra%20Bassoon.expressionmap"
+        },
+        {
+          "name": "PH Eng Horn.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Eng%20Horn.expressionmap"
+        },
+        {
+          "name": "PH Flute.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Flute.expressionmap"
+        },
+        {
+          "name": "PH Horn.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Horn.expressionmap"
+        },
+        {
+          "name": "PH Oboe 2.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Oboe%202.expressionmap"
+        },
+        {
+          "name": "PH Trobone & Tuba.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Trobone%20%26%20Tuba.expressionmap"
+        },
+        {
+          "name": "PH Trombone.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Trombone.expressionmap"
+        },
+        {
+          "name": "PH Tuba.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/PH%20Tuba.expressionmap"
+        },
+        {
+          "name": "Ph Piccolo.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/ik-multimedia/miroslav-philharmonik-2/exports/cubase/Ph%20Piccolo.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/ik-multimedia/miroslav-philharmonik-2"
+}

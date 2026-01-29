@@ -1,0 +1,108 @@
+{
+  "path": "vsl/big-bang-orchestra",
+  "name": "Big Bang Orchestra",
+  "developer": "Vienna Symphonic Library",
+  "category": "orchestral",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "orchestral",
+    "epic",
+    "cinematic",
+    "full-orchestra"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 19,
+      "files": [
+        {
+          "name": "BBO Altair.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Altair.expressionmap"
+        },
+        {
+          "name": "BBO Andromeda con sordino.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Andromeda%20con%20sordino.expressionmap"
+        },
+        {
+          "name": "BBO Andromeda.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Andromeda.expressionmap"
+        },
+        {
+          "name": "BBO Dorado.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Dorado.expressionmap"
+        },
+        {
+          "name": "BBO Hercules.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Hercules.expressionmap"
+        },
+        {
+          "name": "BBO Jupiter (Old).expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Jupiter%20(Old).expressionmap"
+        },
+        {
+          "name": "BBO Jupiter (old2).expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Jupiter%20(old2).expressionmap"
+        },
+        {
+          "name": "BBO Jupiter.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Jupiter.expressionmap"
+        },
+        {
+          "name": "BBO Kopernicus.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Kopernicus.expressionmap"
+        },
+        {
+          "name": "BBO Lyra.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Lyra.expressionmap"
+        },
+        {
+          "name": "BBO Musca.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Musca.expressionmap"
+        },
+        {
+          "name": "BBO Quasar Tam-tams.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Quasar%20Tam-tams.expressionmap"
+        },
+        {
+          "name": "BBO Zodiac Bass.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Zodiac%20Bass.expressionmap"
+        },
+        {
+          "name": "BBO Zodiac Cello.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Zodiac%20Cello.expressionmap"
+        },
+        {
+          "name": "BBO Zodiac Epic Legato.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Zodiac%20Epic%20Legato.expressionmap"
+        },
+        {
+          "name": "BBO Zodiac Horns.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Zodiac%20Horns.expressionmap"
+        },
+        {
+          "name": "BBO Zodiac Trombones.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Zodiac%20Trombones.expressionmap"
+        },
+        {
+          "name": "BBO Zodiac Violins and Violas.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO%20Zodiac%20Violins%20and%20Violas.expressionmap"
+        },
+        {
+          "name": "BBO.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/big-bang-orchestra/exports/cubase/BBO.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/big-bang-orchestra"
+}

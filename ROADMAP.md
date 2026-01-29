@@ -44,18 +44,18 @@
 | Browse by DAW filter | Done |
 | Browse by category filter | Done |
 | Direct download buttons | Done |
-| "Request library" feature | Planned |
+| "Request library" feature | Done |
 | Deploy to articulations.cubbycomposer.com | Done |
 
 ---
 
 ## Phase 4: Cubby Ecosystem Integration
-**Status:** Not Started
+**Status:** In Progress
 
 | Task | Status |
 |------|--------|
 | Cubby Remote integration - download maps in-app | Planned |
-| API for programmatic access | Planned |
+| API for programmatic access | Done |
 | "Missing map" suggestions in Cubby Remote | Planned |
 
 ---

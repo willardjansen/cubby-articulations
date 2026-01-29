@@ -1,0 +1,111 @@
+{
+  "path": "impact-soundworks/bravura-scoring-brass",
+  "name": "Bravura Scoring Brass",
+  "developer": "Impact Soundworks",
+  "category": "brass",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "brass",
+    "orchestral",
+    "cinematic"
+  ],
+  "website": "https://impactsoundworks.com/product/bravura-scoring-brass/",
+  "attribution": {
+    "original_author": "alvsvartr",
+    "original_source": "https://github.com/alvsvartr/Cubase-Expression-Maps",
+    "original_license": "Open source",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 20,
+      "files": [
+        {
+          "name": "01 Ensemble Full Brass.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/01%20Ensemble%20Full%20Brass.expressionmap"
+        },
+        {
+          "name": "02 Ensemble Trumpets.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/02%20Ensemble%20Trumpets.expressionmap"
+        },
+        {
+          "name": "03 Ensemble Horns.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/03%20Ensemble%20Horns.expressionmap"
+        },
+        {
+          "name": "04 Ensemble Trombones.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/04%20Ensemble%20Trombones.expressionmap"
+        },
+        {
+          "name": "05 Ensemble Low Brass.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/05%20Ensemble%20Low%20Brass.expressionmap"
+        },
+        {
+          "name": "06 Ensemble Orchestrator.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/06%20Ensemble%20Orchestrator.expressionmap"
+        },
+        {
+          "name": "07 Ensemble Chordmaker.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/07%20Ensemble%20Chordmaker.expressionmap"
+        },
+        {
+          "name": "08 Solo Piccolo Trumpet.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/08%20Solo%20Piccolo%20Trumpet.expressionmap"
+        },
+        {
+          "name": "09 Solo Trumpet.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/09%20Solo%20Trumpet.expressionmap"
+        },
+        {
+          "name": "10 Solo Flugelhorn.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/10%20Solo%20Flugelhorn.expressionmap"
+        },
+        {
+          "name": "11 Solo Horn.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/11%20Solo%20Horn.expressionmap"
+        },
+        {
+          "name": "12 Solo Trombone.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/12%20Solo%20Trombone.expressionmap"
+        },
+        {
+          "name": "13 Solo Tuba.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/13%20Solo%20Tuba.expressionmap"
+        },
+        {
+          "name": "14 Solo Orchestrator.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/14%20Solo%20Orchestrator.expressionmap"
+        },
+        {
+          "name": "15 Solo Chordmaker.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/15%20Solo%20Chordmaker.expressionmap"
+        },
+        {
+          "name": "16 Full Brass FX.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/16%20Full%20Brass%20FX.expressionmap"
+        },
+        {
+          "name": "17 Horns FX.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/17%20Horns%20FX.expressionmap"
+        },
+        {
+          "name": "18 Trumpets FX.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/18%20Trumpets%20FX.expressionmap"
+        },
+        {
+          "name": "19 Trombones FX.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/19%20Trombones%20FX.expressionmap"
+        },
+        {
+          "name": "20 Low Brass FX.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/impact-soundworks/bravura-scoring-brass/exports/cubase/20%20Low%20Brass%20FX.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/impact-soundworks/bravura-scoring-brass"
+}

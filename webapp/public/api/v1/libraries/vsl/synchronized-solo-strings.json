@@ -1,0 +1,51 @@
+{
+  "path": "vsl/synchronized-solo-strings",
+  "name": "Synchronized Solo Strings",
+  "developer": "Vienna Symphonic Library",
+  "category": "strings",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "strings",
+    "solo",
+    "synchronized"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 5,
+      "files": [
+        {
+          "name": "SYd Bass 1 F.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-solo-strings/exports/cubase/SYd%20Bass%201%20F.expressionmap"
+        },
+        {
+          "name": "SYd Bass1 F.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-solo-strings/exports/cubase/SYd%20Bass1%20F.expressionmap"
+        },
+        {
+          "name": "SYd Cello 1 F.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-solo-strings/exports/cubase/SYd%20Cello%201%20F.expressionmap"
+        },
+        {
+          "name": "SYd Viola 1 F.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-solo-strings/exports/cubase/SYd%20Viola%201%20F.expressionmap"
+        },
+        {
+          "name": "SYd Violin 1 F.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-solo-strings/exports/cubase/SYd%20Violin%201%20F.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/synchronized-solo-strings"
+}

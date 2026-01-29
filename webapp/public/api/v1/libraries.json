@@ -1,0 +1,290 @@
+{
+  "version": "1.0",
+  "generated": "2026-01-29T10:06:21.342Z",
+  "count": 19,
+  "libraries": [
+    {
+      "path": "cinematic-studio-series/cinematic-studio-strings",
+      "name": "Cinematic Studio Strings",
+      "developer": "Cinematic Studio Series",
+      "category": "strings",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "strings",
+        "cinematic",
+        "film-scoring"
+      ]
+    },
+    {
+      "path": "ik-multimedia/miroslav-philharmonik-2",
+      "name": "Miroslav Philharmonik 2",
+      "developer": "IK Multimedia",
+      "category": "orchestral",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "strings",
+        "brass",
+        "woodwinds",
+        "full-orchestra",
+        "solo-instruments"
+      ]
+    },
+    {
+      "path": "impact-soundworks/bravura-scoring-brass",
+      "name": "Bravura Scoring Brass",
+      "developer": "Impact Soundworks",
+      "category": "brass",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "brass",
+        "orchestral",
+        "cinematic"
+      ]
+    },
+    {
+      "path": "impact-soundworks/rhapsody-orchestral-colors",
+      "name": "Rhapsody Orchestral Colors",
+      "developer": "Impact Soundworks",
+      "category": "orchestral",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "orchestral",
+        "cinematic",
+        "hybrid"
+      ]
+    },
+    {
+      "path": "native-instruments/symphony-brass-ensemble",
+      "name": "Symphony Series Brass Ensemble",
+      "developer": "Native Instruments",
+      "category": "brass",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "brass",
+        "orchestral",
+        "ensemble"
+      ]
+    },
+    {
+      "path": "spitfire/abbey-road-one",
+      "name": "Abbey Road One: Orchestral Foundations",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "exports": [
+        "logic"
+      ],
+      "tags": [
+        "strings",
+        "brass",
+        "woodwinds",
+        "percussion",
+        "full-orchestra"
+      ]
+    },
+    {
+      "path": "spitfire/bbc-symphony-orchestra",
+      "name": "BBC Symphony Orchestra",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "exports": [
+        "logic"
+      ],
+      "tags": [
+        "strings",
+        "brass",
+        "woodwinds",
+        "percussion",
+        "harp",
+        "full-orchestra"
+      ]
+    },
+    {
+      "path": "spitfire/bbc-symphony-orchestra-discover",
+      "name": "BBC Symphony Orchestra Discover",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "exports": [
+        "cubase",
+        "logic"
+      ],
+      "tags": [
+        "strings",
+        "brass",
+        "woodwinds",
+        "percussion",
+        "full-orchestra",
+        "free-library"
+      ]
+    },
+    {
+      "path": "vsl/big-bang-orchestra",
+      "name": "Big Bang Orchestra",
+      "developer": "Vienna Symphonic Library",
+      "category": "orchestral",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "orchestral",
+        "epic",
+        "cinematic",
+        "full-orchestra"
+      ]
+    },
+    {
+      "path": "vsl/synchron-brass",
+      "name": "Synchron Brass",
+      "developer": "Vienna Symphonic Library",
+      "category": "brass",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "brass",
+        "orchestral",
+        "synchron"
+      ]
+    },
+    {
+      "path": "vsl/synchron-drums",
+      "name": "Synchron Drums",
+      "developer": "Vienna Symphonic Library",
+      "category": "percussion",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "percussion",
+        "drums",
+        "orchestral",
+        "synchron"
+      ]
+    },
+    {
+      "path": "vsl/synchron-elite-strings",
+      "name": "Synchron Elite Strings",
+      "developer": "Vienna Symphonic Library",
+      "category": "strings",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "strings",
+        "orchestral",
+        "synchron",
+        "chamber"
+      ]
+    },
+    {
+      "path": "vsl/synchron-strings-pro",
+      "name": "Synchron Strings Pro",
+      "developer": "Vienna Symphonic Library",
+      "category": "strings",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "strings",
+        "orchestral",
+        "synchron"
+      ]
+    },
+    {
+      "path": "vsl/synchronized-appassionata-strings",
+      "name": "Synchronized Appassionata Strings",
+      "developer": "Vienna Symphonic Library",
+      "category": "strings",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "strings",
+        "orchestral",
+        "synchronized",
+        "appassionata"
+      ]
+    },
+    {
+      "path": "vsl/synchronized-dimension-strings",
+      "name": "Synchronized Dimension Strings",
+      "developer": "Vienna Symphonic Library",
+      "category": "strings",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "strings",
+        "orchestral",
+        "synchronized",
+        "dimension"
+      ]
+    },
+    {
+      "path": "vsl/synchronized-solo-strings",
+      "name": "Synchronized Solo Strings",
+      "developer": "Vienna Symphonic Library",
+      "category": "strings",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "strings",
+        "solo",
+        "synchronized"
+      ]
+    },
+    {
+      "path": "vsl/synchronized-special-edition",
+      "name": "Synchronized Special Edition",
+      "developer": "Vienna Symphonic Library",
+      "category": "orchestral",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "orchestral",
+        "full-orchestra",
+        "synchronized",
+        "special-edition"
+      ]
+    },
+    {
+      "path": "vsl/synchronized-woodwinds",
+      "name": "Synchronized Woodwinds",
+      "developer": "Vienna Symphonic Library",
+      "category": "woodwinds",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "woodwinds",
+        "orchestral",
+        "synchronized"
+      ]
+    },
+    {
+      "path": "vsl/vi-special-edition",
+      "name": "VI Special Edition",
+      "developer": "Vienna Symphonic Library",
+      "category": "orchestral",
+      "exports": [
+        "cubase"
+      ],
+      "tags": [
+        "orchestral",
+        "full-orchestra",
+        "vienna-instruments"
+      ]
+    }
+  ]
+}

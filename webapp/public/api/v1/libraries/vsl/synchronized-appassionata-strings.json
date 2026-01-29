@@ -1,0 +1,40 @@
+{
+  "path": "vsl/synchronized-appassionata-strings",
+  "name": "Synchronized Appassionata Strings",
+  "developer": "Vienna Symphonic Library",
+  "category": "strings",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "strings",
+    "orchestral",
+    "synchronized",
+    "appassionata"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 2,
+      "files": [
+        {
+          "name": "SYd App Double bass 10.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-appassionata-strings/exports/cubase/SYd%20App%20Double%20bass%2010.expressionmap"
+        },
+        {
+          "name": "SYd App Violin.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-appassionata-strings/exports/cubase/SYd%20App%20Violin.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/synchronized-appassionata-strings"
+}

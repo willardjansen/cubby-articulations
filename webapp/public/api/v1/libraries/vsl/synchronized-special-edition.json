@@ -1,0 +1,52 @@
+{
+  "path": "vsl/synchronized-special-edition",
+  "name": "Synchronized Special Edition",
+  "developer": "Vienna Symphonic Library",
+  "category": "orchestral",
+  "exports": [
+    "cubase"
+  ],
+  "tags": [
+    "orchestral",
+    "full-orchestra",
+    "synchronized",
+    "special-edition"
+  ],
+  "website": "https://www.vsl.co.at/search",
+  "attribution": {
+    "original_author": "Jared Thirsk",
+    "original_source": "https://github.com/jaredthirsk/cubase-expression-maps",
+    "original_license": "Unlicense",
+    "imported_by": "Cubby Articulations",
+    "import_date": "2025-01-28"
+  },
+  "updated": "2025-01-28",
+  "downloads": {
+    "cubase": {
+      "count": 5,
+      "files": [
+        {
+          "name": "SYd SE Double basses 2.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-special-edition/exports/cubase/SYd%20SE%20Double%20basses%202.expressionmap"
+        },
+        {
+          "name": "SYd SE Orchestral Cellos.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-special-edition/exports/cubase/SYd%20SE%20Orchestral%20Cellos.expressionmap"
+        },
+        {
+          "name": "SYd SE T'bone c-bass.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-special-edition/exports/cubase/SYd%20SE%20T'bone%20c-bass.expressionmap"
+        },
+        {
+          "name": "SYd SE+ Orchestral Cellos.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-special-edition/exports/cubase/SYd%20SE%2B%20Orchestral%20Cellos.expressionmap"
+        },
+        {
+          "name": "SYd SE+ Orchestral Double basses.expressionmap",
+          "url": "https://github.com/willardjansen/cubby-articulations/raw/main/libraries/vsl/synchronized-special-edition/exports/cubase/SYd%20SE%2B%20Orchestral%20Double%20basses.expressionmap"
+        }
+      ]
+    }
+  },
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/vsl/synchronized-special-edition"
+}

@@ -21,6 +21,8 @@ export default function RootLayout({
             </a>
             <nav className="flex gap-6 text-sm">
               <a href="/" className="hover:text-cubby-pink transition-colors">Browse</a>
+              <a href="/request" className="hover:text-cubby-pink transition-colors">Request</a>
+              <a href="/api-docs" className="hover:text-cubby-pink transition-colors">API</a>
               <a href="https://github.com/willardjansen/cubby-articulations" target="_blank" className="hover:text-cubby-pink transition-colors">GitHub</a>
               <a href="https://github.com/willardjansen/cubby-articulations/blob/main/CONTRIBUTING.md" target="_blank" className="hover:text-cubby-pink transition-colors">Contribute</a>
             </nav>

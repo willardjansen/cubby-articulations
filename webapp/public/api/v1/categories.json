@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "generated": "2026-01-29T10:06:21.346Z",
+  "categories": {
+    "strings": [
+      {
+        "path": "cinematic-studio-series/cinematic-studio-strings",
+        "name": "Cinematic Studio Strings",
+        "developer": "Cinematic Studio Series"
+      },
+      {
+        "path": "vsl/synchron-elite-strings",
+        "name": "Synchron Elite Strings",
+        "developer": "Vienna Symphonic Library"
+      },
+      {
+        "path": "vsl/synchron-strings-pro",
+        "name": "Synchron Strings Pro",
+        "developer": "Vienna Symphonic Library"
+      },
+      {
+        "path": "vsl/synchronized-appassionata-strings",
+        "name": "Synchronized Appassionata Strings",
+        "developer": "Vienna Symphonic Library"
+      },
+      {
+        "path": "vsl/synchronized-dimension-strings",
+        "name": "Synchronized Dimension Strings",
+        "developer": "Vienna Symphonic Library"
+      },
+      {
+        "path": "vsl/synchronized-solo-strings",
+        "name": "Synchronized Solo Strings",
+        "developer": "Vienna Symphonic Library"
+      }
+    ],
+    "orchestral": [
+      {
+        "path": "ik-multimedia/miroslav-philharmonik-2",
+        "name": "Miroslav Philharmonik 2",
+        "developer": "IK Multimedia"
+      },
+      {
+        "path": "impact-soundworks/rhapsody-orchestral-colors",
+        "name": "Rhapsody Orchestral Colors",
+        "developer": "Impact Soundworks"
+      },
+      {
+        "path": "spitfire/abbey-road-one",
+        "name": "Abbey Road One: Orchestral Foundations",
+        "developer": "Spitfire Audio"
+      },
+      {
+        "path": "spitfire/bbc-symphony-orchestra",
+        "name": "BBC Symphony Orchestra",
+        "developer": "Spitfire Audio"
+      },
+      {
+        "path": "spitfire/bbc-symphony-orchestra-discover",
+        "name": "BBC Symphony Orchestra Discover",
+        "developer": "Spitfire Audio"
+      },
+      {
+        "path": "vsl/big-bang-orchestra",
+        "name": "Big Bang Orchestra",
+        "developer": "Vienna Symphonic Library"
+      },
+      {
+        "path": "vsl/synchronized-special-edition",
+        "name": "Synchronized Special Edition",
+        "developer": "Vienna Symphonic Library"
+      },
+      {
+        "path": "vsl/vi-special-edition",
+        "name": "VI Special Edition",
+        "developer": "Vienna Symphonic Library"
+      }
+    ],
+    "brass": [
+      {
+        "path": "impact-soundworks/bravura-scoring-brass",
+        "name": "Bravura Scoring Brass",
+        "developer": "Impact Soundworks"
+      },
+      {
+        "path": "native-instruments/symphony-brass-ensemble",
+        "name": "Symphony Series Brass Ensemble",
+        "developer": "Native Instruments"
+      },
+      {
+        "path": "vsl/synchron-brass",
+        "name": "Synchron Brass",
+        "developer": "Vienna Symphonic Library"
+      }
+    ],
+    "percussion": [
+      {
+        "path": "vsl/synchron-drums",
+        "name": "Synchron Drums",
+        "developer": "Vienna Symphonic Library"
+      }
+    ],
+    "woodwinds": [
+      {
+        "path": "vsl/synchronized-woodwinds",
+        "name": "Synchronized Woodwinds",
+        "developer": "Vienna Symphonic Library"
+      }
+    ]
+  }
+}

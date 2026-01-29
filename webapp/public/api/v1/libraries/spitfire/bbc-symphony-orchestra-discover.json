@@ -1,0 +1,28 @@
+{
+  "path": "spitfire/bbc-symphony-orchestra-discover",
+  "name": "BBC Symphony Orchestra Discover",
+  "developer": "Spitfire Audio",
+  "category": "orchestral",
+  "exports": [
+    "cubase",
+    "logic"
+  ],
+  "tags": [
+    "strings",
+    "brass",
+    "woodwinds",
+    "percussion",
+    "full-orchestra",
+    "free-library"
+  ],
+  "website": "https://www.spitfireaudio.com/bbc-symphony-orchestra",
+  "attribution": {
+    "author": "Babylonwaves",
+    "source": "https://www.babylonwaves.com/free/",
+    "license": "CC-BY-4.0",
+    "confirmation": "Official free release from Babylonwaves for the Discover edition"
+  },
+  "updated": "2025-01-28",
+  "downloads": {},
+  "github": "https://github.com/willardjansen/cubby-articulations/tree/main/libraries/spitfire/bbc-symphony-orchestra-discover"
+}
