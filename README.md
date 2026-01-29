@@ -103,7 +103,19 @@ See [ROADMAP.md](ROADMAP.md) for planned features and development status.
 
 ## Share Your Maps
 
-**👉 [Upload your expression maps here](https://github.com/willardjansen/cubby-articulations/discussions)** - just drag & drop your files and tell us what library it's for. We'll handle the rest.
+1. Create a free GitHub account at [github.com/signup](https://github.com/signup)
+2. Go to [our discussions page](https://github.com/willardjansen/cubby-articulations/discussions)
+3. Click the green **"New discussion"** button
+4. Select **"Share Your Maps"** category
+5. Write a quick post:
+   - **Title:** The library name (e.g., "Spitfire BBC Symphony Orchestra")
+   - **Message:** Tell us:
+     - What DAW? (Cubase, Logic, etc.)
+     - Did you make this yourself, or where did you get it?
+   - Drag & drop your zip file into the text box
+6. Click **"Start discussion"**
+
+That's it! We'll add it to the collection and credit you.
 
 ---
 
