@@ -23,8 +23,9 @@ export default function RootLayout({
               <a href="/" className="hover:text-cubby-pink transition-colors">Browse</a>
               <a href="/request" className="hover:text-cubby-pink transition-colors">Request</a>
               <a href="/api-docs" className="hover:text-cubby-pink transition-colors">API</a>
-              <a href="https://github.com/willardjansen/cubby-articulations" target="_blank" className="hover:text-cubby-pink transition-colors">GitHub</a>
-              <a href="https://github.com/willardjansen/cubby-articulations/blob/main/CONTRIBUTING.md" target="_blank" className="hover:text-cubby-pink transition-colors">Contribute</a>
+              <a href="https://github.com/willardjansen/cubby-articulations" target="_blank" rel="noopener noreferrer" className="hover:text-cubby-pink transition-colors">GitHub</a>
+              <a href="https://vi-control.net/community/threads/cubby-articulations-free-open-source-expression-map-database-community-project.169892/" target="_blank" rel="noopener noreferrer" className="hover:text-cubby-pink transition-colors">VI-Control</a>
+              <a href="https://github.com/willardjansen/cubby-articulations/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer" className="hover:text-cubby-pink transition-colors">Contribute</a>
             </nav>
           </div>
         </header>
@@ -33,7 +34,12 @@ export default function RootLayout({
         </main>
         <footer className="border-t border-white/10 mt-16 py-8 text-center text-sm text-gray-500">
           <p>Cubby Articulations is part of the <a href="https://cubbycomposer.com" className="text-cubby-pink hover:underline">Cubby Composer</a> ecosystem</p>
-          <p className="mt-2">MIT License - Free and Open Source</p>
+          <div className="flex justify-center gap-6 mt-4">
+            <a href="https://github.com/willardjansen/cubby-articulations" target="_blank" rel="noopener noreferrer" className="hover:text-cubby-pink transition-colors">GitHub</a>
+            <a href="https://vi-control.net/community/threads/cubby-articulations-free-open-source-expression-map-database-community-project.169892/" target="_blank" rel="noopener noreferrer" className="hover:text-cubby-pink transition-colors">VI-Control</a>
+            <a href="https://forums.steinberg.net/t/free-open-source-expression-map-database-cubby-articulations-community-project/1022305" target="_blank" rel="noopener noreferrer" className="hover:text-cubby-pink transition-colors">Steinberg Forums</a>
+          </div>
+          <p className="mt-4">MIT License - Free and Open Source</p>
         </footer>
       </body>
     </html>
