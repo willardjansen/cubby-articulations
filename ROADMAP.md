@@ -54,7 +54,7 @@
 
 | Task | Status |
 |------|--------|
-| Cubby Remote integration - download maps in-app | Planned |
+| Cubby Remote integration - download maps in-app | Done |
 | API for programmatic access | Done |
 | "Missing map" suggestions in Cubby Remote | Planned |
 
