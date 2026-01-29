@@ -140,6 +140,11 @@ See [ROADMAP.md](ROADMAP.md) for the full development roadmap with status indica
 - Libraries grouped by developer (VSL, Spitfire, etc.)
 - Link to request new libraries from within the app
 
+### 2026-01-29 - Website & Community Links
+- Added VI-Control and Steinberg Forums links to header and footer
+- Added "Browse Library" button on cubbycomposer.com main site
+- Centralized community links on articulations.cubbycomposer.com
+
 ---
 
 ### 2025-01-28
