@@ -132,6 +132,14 @@ See [ROADMAP.md](ROADMAP.md) for the full development roadmap with status indica
 - No authentication required, static files served via CDN
 - Ready for Cubby Remote integration
 
+### 2026-01-29 - Cubby Remote Integration
+- Added "Online" tab to Cubby Remote's InstrumentLibrary component
+- Users can browse Cubase expression maps from the database
+- Search and filter by library name, developer, or tags
+- Download expression maps directly to local server for use
+- Libraries grouped by developer (VSL, Spitfire, etc.)
+- Link to request new libraries from within the app
+
 ---
 
 ### 2025-01-28
